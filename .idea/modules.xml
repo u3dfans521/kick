@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kick.iml" filepath="$PROJECT_DIR$/kick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kong_web/kong_web.iml" filepath="$PROJECT_DIR$/kong_web/kong_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oppo/oppo.iml" filepath="$PROJECT_DIR$/oppo/oppo.iml" />
     </modules>
   </component>
 </project>
